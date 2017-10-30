@@ -1,0 +1,2 @@
+# How to build a simple Spring App
+https://github.com/sanumala/simplespring/blob/master/src/main/java/com/satesh/simplespring/Main.java
